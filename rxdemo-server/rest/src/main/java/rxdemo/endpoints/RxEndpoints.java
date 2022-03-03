@@ -11,7 +11,7 @@ import spark.Response;
 import static spark.Spark.*;
 
 // change to be deployed
-// TRIGGERING A BUILD
+// Trigger
 // Changed again 123
 public class RxEndpoints {
    public static void initalizeEndpoints() {
